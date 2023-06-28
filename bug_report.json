@@ -12,7 +12,7 @@
 "Evidence/attachment" :	"< Add image or a word doc with multiple images showing sequence of steps or a quick/short video >",
 "Severity" :	"High",
 "Priority" :	"Medium",
-"Environment" :	"FireFox version 32.4"
+"Environment" :	"FireFox version 32.4",
 "Reported by" :	"Tester XYZ",
 "Reported on" :	"03-02-2023",
 "Status" :	"New",
